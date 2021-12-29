@@ -1,0 +1,66 @@
+ТЕСТЫ НА 10^4 с PYPY
+
+Time elapsed: 1.6936769485473633
+
+Time elapsed: 0.012000083923339844
+
+Time elapsed: 0.030050039291381836
+
+Time elapsed: 7.993641138076782
+
+Time elapsed: 1.45274019241333
+#ТЕСТЫ НА 10^3 с PYPY
+
+Time elapsed: 0.09411215782165527
+
+Time elapsed: 0.03240799903869629
+
+Time elapsed: 0.03758692741394043
+
+Time elapsed: 0.18661808967590332
+
+Time elapsed: 0.11931705474853516
+#ТЕСТЫ НА 10^2 с PYPY
+
+Time elapsed: 0.0
+
+Time elapsed: 0.0
+
+Time elapsed: 0.01375889778137207
+
+Time elapsed: 0.025028228759765625
+
+Time elapsed: 0.028338909149169922
+#ТЕСТЫ 10^4 без PYPY
+
+Time elapsed: 78.39223265647888
+
+Time elapsed: 0.04231691360473633
+
+Time elapsed: 0.10116171836853027
+
+Time elapsed: 341.88494181632996
+
+Time elapsed: 75.69870042800903
+#ТЕСТЫ 10^3 Без PYPY
+
+Time elapsed: 0.726341724395752
+
+Time elapsed: 0.006024360656738281
+
+Time elapsed: 0.012005805969238281
+
+Time elapsed: 2.9363114833831787
+
+Time elapsed: 0.7203059196472168
+#ТЕСТЫ 10^2 Без PYPY
+
+Time elapsed: 0.022085905075073242
+
+Time elapsed: 0.001542806625366211
+
+Time elapsed: 0.0029916763305664062
+
+Time elapsed: 0.05181264877319336
+
+Time elapsed: 0.017390966415405273
